@@ -9,7 +9,9 @@ Beginner:
 5.	Reverse a String – Reverse the characters in a string.
 6.	Sum of Array – Calculate the sum of all elements in an array.
 7.	Find the Largest Number – Find the largest number in a list.
+
 Intermediate:
+
 1.	Sorting Algorithms – Implement bubble sort, insertion sort, or merge sort.
 2.	Binary Search – Implement binary search on a sorted array.
 3.	Anagram Checker – Check if two strings are anagrams of each other.
